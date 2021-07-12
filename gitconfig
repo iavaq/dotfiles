@@ -49,3 +49,6 @@
 
 [pull]
   rebase = false
+[user]
+	email = iavaquilar@gmail.com
+	name = Ia Vaquilar
